@@ -31,9 +31,9 @@ Sou um desenvolvedor apaixonado por **RPA e automação de processos**. Atuo com
 ## 📊 Nível de Experiência  
 
 - **Python** ![Python](https://geps.dev/progress/90)  
-- **RPA (UiPath, Automation Anywhere, Power Automate)** ![RPA](https://geps.dev/progress/85)  
+- **RPA** ![RPA](https://geps.dev/progress/85)  
 - **Flask & FastAPI** ![Flask](https://geps.dev/progress/75)  
-- **Banco de Dados (PostgreSQL, MySQL)** ![SQL](https://geps.dev/progress/70)  
+- **Banco de Dados (PostgreSQL, MySQL)** ![SQL](https://geps.dev/progress/80)  
 - **DevOps (Docker, EasyPanel, AWS)** ![DevOps](https://geps.dev/progress/60)  
 
 ---
@@ -41,7 +41,7 @@ Sou um desenvolvedor apaixonado por **RPA e automação de processos**. Atuo com
 ## 📊 Minhas Estatísticas  
 
 <div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=0RenanSilva0&show_icons=true&theme=dracula&count_private=true" />  
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=0RenanSilva0&show_icons=true&theme=dracula&count_private=true&include_all_commits=true" />  
   <img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=0RenanSilva0&theme=dracula" />  
 </div>  
 
