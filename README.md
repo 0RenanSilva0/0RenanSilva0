@@ -36,14 +36,7 @@ Sou um desenvolvedor apaixonado por **RPA e automação de processos**. Atuo com
 - **Banco de Dados (PostgreSQL, MySQL)** ![SQL](https://geps.dev/progress/80)  
 - **DevOps (Docker, EasyPanel, AWS)** ![DevOps](https://geps.dev/progress/60)  
 
----
 
-## 📊 Minhas Estatísticas  
-
-<div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=0RenanSilva0&show_icons=true&theme=dracula&count_private=true&include_all_commits=true" />  
-  <img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=0RenanSilva0&theme=dracula" />  
-</div>  
 
 
 
