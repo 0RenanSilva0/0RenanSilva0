@@ -3,9 +3,6 @@
 ## 💻 Sobre mim  
 Sou um desenvolvedor apaixonado por **RPA e automação de processos**. Atuo como **Líder de RPA**, desenvolvendo soluções que reduzem trabalho manual e otimizam a eficiência das operações. Busco sempre evoluir tecnicamente e financeiramente, expandindo meu império na tecnologia!  
 
-📍 Moro em **São Paulo - SP**  
-📈 Buscando **crescimento, independência financeira e novos desafios**  
-
 ---
 
 ## 🚀 Tecnologias e Ferramentas  
